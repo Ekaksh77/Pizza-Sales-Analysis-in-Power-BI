@@ -2,6 +2,9 @@
 Analysis by Power BI
 ![Piz1](https://github.com/Ekaksh77/Pizza-Sales-Analysis-in-Power-BI/assets/137069741/a6223fd6-a339-4cea-92e4-ccafc3e9a598)
 
+![piz2](https://github.com/Ekaksh77/Pizza-Sales-Analysis-in-Power-BI/assets/137069741/e6091342-e2c7-4d18-8cd2-1fbdd2762850)
+
+
 A.  Pizza Sales Report Dash Board: 
 1. KPI : a. Total revenue
 b. Average Order Value
